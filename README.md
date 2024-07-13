@@ -6,7 +6,7 @@
 
 I am a passionate and driven professional in the fields of computer science and business intelligence. With a solid academic foundation and extensive technical skills, I am dedicated to delivering innovative solutions. Fluent in English, French, and Arabic, I bring a diverse perspective to my work.
 
-
+![Coding](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
 ## 🛠️ Technical Skills
 
