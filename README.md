@@ -6,14 +6,72 @@
 
 I am a passionate and driven professional in the fields of computer science and business intelligence. With a solid academic foundation and extensive technical skills, I am dedicated to delivering innovative solutions. Fluent in English, French, and Arabic, I bring a diverse perspective to my work.
 
-
+![Coding](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** Python, HTML, SQL, JavaScript, Dart
-- **Frameworks:** TensorFlow, PyTorch, Keras, Flutter
-- **Libraries & Tools:** NumPy, Pandas, Scikit-learn, FastAPI, Flask, NLTK, Streamlit
-- **Additional Skills:** Expertise in generative AI APIs, web, and mobile development
+### Languages & Frameworks
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" width="48" height="48" alt="SQL" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="48" height="48" alt="Dart" />
+      <br>Dart
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/keras/keras.png" width="48" height="48" alt="Keras" />
+      <br>Keras
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/nltk/nltk.png" width="48" height="48" alt="NLTK" />
+      <br>NLTK
+    </td>
+    <td align="center" width="96">
+      <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" height="48" alt="Streamlit" />
+      <br>Streamlit
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Projects
 
