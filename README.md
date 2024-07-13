@@ -1,5 +1,8 @@
 # Hi, I'm Embarki Omar! 👋
 
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=embarki34&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=embarki34&show_icons=true&theme=radical)
+
 ![Welcome](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lhcDdjNTF4YnAxcGZranliZWgwbWNkYzRhbDVqczlyemdkZTdhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 ## About Me
@@ -105,9 +108,9 @@ I am a passionate and driven professional in the fields of computer science and 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=embarki34&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=embarki34&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=embarki34&theme=radical)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=embarki34&color=blueviolet)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=embarki34&theme=radical)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=embarki34&theme=radical)
