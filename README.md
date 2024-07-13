@@ -90,7 +90,7 @@ I am a passionate and driven professional in the fields of computer science and 
 - **AI Open Days Organizer**, Infiniti Club Bordj Bou Arreridj, 2024
 - **Web Development Bootcamp Speaker**, Infiniti Club Bordj Bou Arreridj, 2024
 
-![Achievements](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
 
 ## 🎓 Education
 
