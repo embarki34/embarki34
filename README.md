@@ -105,7 +105,7 @@ I am a passionate and driven professional in the fields of computer science and 
 - [Instagram](https://www.instagram.com/omar_embarki/)
 - [Facebook](https://www.facebook.com/omar.embarki.710)
 
-![Let's Connect](https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif)
+
 
 ## 📊 GitHub Stats
 
