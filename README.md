@@ -1,6 +1,6 @@
 # Hi, I'm Embarki Omar! 👋
 
-![Welcome]([https://media.giphy.com/media/l0HlPjez9l1wbXyJy/giphy.gif](https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=790b7611a0qfzg97w199ckzzby8pekl6m0rsf04c4hbcd26p&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+![Welcome](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6)
 
 ## About Me
 
