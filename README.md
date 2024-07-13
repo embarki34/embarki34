@@ -15,60 +15,47 @@ I am a passionate and driven professional in the fields of computer science and 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="48" height="48" alt="Python" />
-      <br>Python
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="48" height="48" alt="Python" /><br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="48" height="48" alt="HTML" />
-      <br>HTML
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="48" height="48" alt="HTML" /><br>HTML
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" width="48" height="48" alt="SQL" />
-      <br>SQL
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" width="48" height="48" alt="SQL" /><br>SQL
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="48" height="48" alt="JavaScript" /><br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="48" height="48" alt="Dart" />
-      <br>Dart
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="48" height="48" alt="Dart" /><br>Dart
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" width="48" height="48" alt="TensorFlow" /><br>TensorFlow
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" width="48" height="48" alt="PyTorch" /><br>PyTorch
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/keras/keras.png" width="48" height="48" alt="Keras" />
-      <br>Keras
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/keras/keras.png" width="48" height="48" alt="Keras" /><br>Keras
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" width="48" height="48" alt="Flutter" />
-      <br>Flutter
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" width="48" height="48" alt="Flutter" /><br>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
+      <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="48" height="48" alt="FastAPI" /><br>FastAPI
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" width="48" height="48" alt="Flask" />
-      <br>Flask
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" width="48" height="48" alt="Flask" /><br>Flask
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/nltk/nltk.png" width="48" height="48" alt="NLTK" />
-      <br>NLTK
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/nltk/nltk.png" width="48" height="48" alt="NLTK" /><br>NLTK
     </td>
     <td align="center" width="96">
-      <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" height="48" alt="Streamlit" />
-      <br>Streamlit
+      <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" height="48" alt="Streamlit" /><br>Streamlit
     </td>
   </tr>
 </table>
@@ -116,7 +103,11 @@ I am a passionate and driven professional in the fields of computer science and 
 
 ![Let's Connect](https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif)
 
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=embarki34&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=embarki34&layout=compact&theme=radical)
-
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=embarki34&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=embarki34&color=blueviolet)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=embarki34&theme=radical)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=embarki34&theme=radical)
