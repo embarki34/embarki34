@@ -17,20 +17,20 @@ I am a passionate and driven professional in the fields of computer science and 
 
 ## 🚀 Projects
 
-### [Patient Sentiment Monitoring System](https://github.com/your-username/patient-sentiment-monitoring)
+### [Patient Sentiment Monitoring System](https://github.com/embarki34/patient-sentiment-monitoring)
 - Performed data augmentation on an Algerian dialect dataset
 - Utilized state-of-the-art transformers and fine-tuning techniques
 - Created a mobile and web interface using Python, TensorFlow, and Hugging Face
 
-### [YouTube Transcription and Summarizing](https://github.com/your-username/youtube-transcription-summarizing)
+### [YouTube Transcription and Summarizing](https://github.com/embarki34/youtube-transcription-summarizing)
 - Implemented a Flask API with Streamlit for the web interface
 - Developed a mobile interface with Flutter
 
-### [Multi-Vendor E-commerce Web Application](https://github.com/your-username/multi-vendor-ecommerce)
+### [Multi-Vendor E-commerce Web Application](https://github.com/embarki34/multi-vendor-ecommerce)
 - Managed database operations and queries with SQL
 - Utilized Bootstrap for consistent and responsive styling
 
-### [Chat with PDF Utilizing ChatGPT API](https://github.com/your-username/chat-with-pdf)
+### [Chat with PDF Utilizing ChatGPT API](https://github.com/embarki34/chat-with-pdf)
 - Implemented an NLP project using Python, ChatGPT API, and context embedding
 - Created a web UI for interaction
 
@@ -52,11 +52,12 @@ I am a passionate and driven professional in the fields of computer science and 
 ## 📫 Connect with Me
 
 - 📧 Email: embark24@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-- [Twitter](https://twitter.com/your-twitter-username)
+- [LinkedIn](https://www.linkedin.com/in/embarki-omar-10651a22a/)
+- [Instagram](https://www.instagram.com/omar_embarki/)
+- [Facebook](https://www.facebook.com/omar.embarki.710)
 
 ![Let's Connect](https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=embarki34&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=embarki34&layout=compact&theme=radical)
