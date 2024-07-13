@@ -117,5 +117,6 @@ I am a passionate and driven professional in the fields of computer science and 
 ![Let's Connect](https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=embarki34&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=embarki34&layout=compact&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=embarki34&color=blueviolet)
