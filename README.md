@@ -3,7 +3,7 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=embarki34&theme=radical)
 
 
-![Welcome](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lhcDdjNTF4YnAxcGZranliZWgwbWNkYzRhbDVqczlyemdkZTdhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+
 
 ## About Me
 
